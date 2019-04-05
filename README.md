@@ -1,3 +1,3 @@
-# Board
-openglで盤面を作りました
+# Othello
+openglで盤面を作りました  
 Othelloになる予定です
